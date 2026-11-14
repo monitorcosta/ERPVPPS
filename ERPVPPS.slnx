@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ERPVPPS.API/ERPVPPS.API.csproj" Id="7801b6ed-a125-4ee4-bfa6-e474186e69ff" />
+    <Project Path="src/ERPVPPS.Application/ERPVPPS.Application.csproj" Id="00c29dc2-bfa4-4b2a-8412-1eef2fd8f76f" />
+    <Project Path="src/ERPVPPS.Domain/ERPVPPS.Domain.csproj" Id="9865731a-8797-4385-bc9f-aa69c2250ad5" />
+    <Project Path="src/ERPVPPS.Infra.Data/ERPVPPS.Infra.Data.csproj" Id="9ffd426c-c908-4181-a477-61c5cb7291c7" />
+    <Project Path="src/ERPVPPS.IoC/ERPVPPS.IoC.csproj" Id="25b7b7c2-2d8b-4c86-b58e-1c1a0c702f62" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ERPVPPS.Application.Tests/ERPVPPS.Application.Tests.csproj" Id="e0c2d9be-6bf3-4185-afaa-ec071de4107c" />
+    <Project Path="tests/ERPVPPS.Domain.Tests/ERPVPPS.Domain.Tests.csproj" Id="ca10ef95-68db-4634-af8a-fb1442d08ea8" />
+  </Folder>
+</Solution>
